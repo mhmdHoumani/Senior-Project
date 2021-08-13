@@ -1,3 +1,3 @@
 #TITLE
 
-Description.
+Description of the Senior Project.
